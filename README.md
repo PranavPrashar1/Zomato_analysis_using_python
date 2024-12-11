@@ -31,9 +31,9 @@ The Zomato Analysis project aims to provide insights into:
    ```bash
    https://github.com/PranavPrashar1/Zomato_analysis_using_python
 2. Install the required dependencies:
-   '''bash
+   ```bash
    pip install -r requirements.txt
 3. Run the Analysis:
-   '''bash
+   ```bash
    Python Zomato_analysis_using_python.py
    
